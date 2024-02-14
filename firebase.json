@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "public": "Y",
-    "site": "akki-portfolio",
+    "public": "firebase use r-akhila-portfolio",
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -15,5 +14,3 @@
     ]
   }
 }
-
-
